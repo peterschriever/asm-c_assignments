@@ -1,5 +1,5 @@
 
-.include "m32def.inc"
+.include "m328Pdef.inc"
 .org 0
 
 ldi zh, high(ASCII_TABLE << 1) ;define Z-pointer

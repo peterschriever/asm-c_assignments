@@ -1,6 +1,6 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.6</VERSION>
- <DEVICE>"ATmega32"</DEVICE>
+ <DEVICE>"ATmega328P"</DEVICE>
  <WORKING_DIR>c:\users\peter\Documents\Atmel Studio\7.0\ASMCAssignment10\ASMCAssignment10\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
@@ -9,7 +9,8 @@
  </INCLUDE_PATH>
  <SOURCE_FILE>c:\users\peter\Documents\Atmel Studio\7.0\ASMCAssignment10\ASMCAssignment10\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
-  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m328Pdef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
   <FILE>c:\users\peter\Documents\Atmel Studio\7.0\ASMCAssignment10\ASMCAssignment10\Debug\ASMCAssignment10.obj</FILE>
