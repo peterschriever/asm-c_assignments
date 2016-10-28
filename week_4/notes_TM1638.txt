@@ -1,0 +1,16 @@
+[DP]GFEDCBA = 8 bits = 
+0  0 0 0 0 0 0 0 
+DP G F E D C B A
+
+E + G + C = n
+DP G F E D C B A
+0  1 0 1 0 1 0 0 = 0101 0100 = 0x54 = n
+
+E + F + A + B + C + G = A
+DP G F E D C B A
+0  1 1 1 0 1 1 1 = 0111 0111 = 0x77 = A
+
+E + F + G + C = k || h maybe? 
+DP G F E D C B A
+0  1 1 1 0 1 0 0 = 0111 0100 = 0x74 = k || h maybe?
+
