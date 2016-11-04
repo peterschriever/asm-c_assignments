@@ -1,7 +1,7 @@
 /*
  * tm1638.c
  * bjab, march 2016
- * demo program interfacing TM1638 from Arduino UNO (ATmga238P)
+ * demo program interfacing TM1638 from Arduino UNO (ATmga328P)
  * reusing :
  *   -http://blog.3d-logic.com/2015/01/10/using-a-tm1638-based-board-with-arduino/
  *   -https://android.googlesource.com/platform/external/arduino/+/jb-mr1-dev/hardware/arduino/cores/arduino
